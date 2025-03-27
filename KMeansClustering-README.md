@@ -3,5 +3,4 @@
 ### - Importing libraries
 ### - Loading data
 ### - Exploratory data analysis (EDA)
-### - K-Means Clustering Model Creation 
- 
+### - K-Means Clustering Model Creation  
